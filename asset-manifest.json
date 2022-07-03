@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Keeper/static/css/main.a3fb8034.css",
+    "main.js": "/Keeper/static/js/main.7613e201.js",
+    "static/media/logo.png.png": "/Keeper/static/media/logo.png.35248fbfdc17edb79274.png",
+    "index.html": "/Keeper/index.html",
+    "main.a3fb8034.css.map": "/Keeper/static/css/main.a3fb8034.css.map",
+    "main.7613e201.js.map": "/Keeper/static/js/main.7613e201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3fb8034.css",
+    "static/js/main.7613e201.js"
+  ]
+}
